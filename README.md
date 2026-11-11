@@ -23,4 +23,4 @@ Para reproducir por completo el análisis, las métricas, las tablas de validaci
 3. **Ejecución del Script:**
    Establezca su directorio de trabajo en la carpeta del proyecto y ejecute el script completo mediante el comando:
    ```R
-   source("script_regresion_OPTIMIZADO.R")
+   source("código.R")
