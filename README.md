@@ -1,4 +1,6 @@
-# Caso de Estudio N° 1: Regresión — Predicción de Potencia en Turbinas de Gas (TEY)
+# Caso de Estudio N° 1: Regresión — 
+Predicción de la Generación Eléctrica de una Turbina de Gas Mediante Regresión Lineal
+
 **Universidad de Santiago de Chile (USACH) — Estadística Aplicada**
 
 ## 📂 Estructura del Repositorio
