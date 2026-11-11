@@ -6,7 +6,7 @@
 Para garantizar la ejecución limpia y reproducible del pipeline, el repositorio se organiza de la siguiente manera:
 - 📁 `dataset/` : Contiene los 5 archivos CSV oficiales de los años 2011 al 2015 (`gt_2011.csv`, `gt_2012.csv`, `gt_2013.csv`, `gt_2014.csv`, `gt_2015.csv`).
 - 📄 `código.R` : Script principal en R que automatiza todo el análisis exploratorio, modelado, validación temporal y exportación de resultados.
-- 📁 `resultados_finales/` : Carpeta generada automáticamente por el script que almacena las tablas CSV y las 12 figuras oficiales utilizadas en el informe y la presentación.
+- 📁 `datos/` : Carpeta generada automáticamente por el script que almacena las tablas CSV y las 12 figuras oficiales utilizadas en el informe y la presentación.
 
 ---
 
