@@ -1,1 +1,0 @@
-# Grupo-12-Caso-de-estudio-1
